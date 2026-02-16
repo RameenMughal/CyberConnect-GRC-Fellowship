@@ -1,4 +1,4 @@
-# Riddle Registry
+# Riddle Registry 🧩🗂️
 
 Platform: [PicoCTF](https://play.picoctf.org/)
 
@@ -35,7 +35,3 @@ This gives us the encoded text at the `Author` tag `cGljb0NURntwdXp6bDNkX20zdGFk
 Decoding this text at [CyberChef](https://gchq.github.io/CyberChef/) website by choosing `From Base64` then we get the flag!
 
 <img width="1303" height="595" alt="image" src="https://github.com/user-attachments/assets/eb4522e2-a24f-425c-9102-eee91613d3f1" />
-
-
-
-
