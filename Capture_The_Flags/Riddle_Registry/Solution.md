@@ -1,0 +1,3 @@
+# Riddle Registry
+
+Platform: PicoCTF
