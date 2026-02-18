@@ -32,7 +32,3 @@ We can see the content of the file by `cat` command: `cat flag.1`
 
 <img width="225" height="74" alt="Method2" src="https://github.com/user-attachments/assets/c1f77017-008f-487d-b526-dd47fab94b4f" />
 
-## Credits 🙌
-
-Thanks to [CyberConnect](https://github.com/Cyber-Connect-pk) for hosting weekly Monday CTFs to help us improve our CTF skills!
-
