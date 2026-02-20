@@ -2,8 +2,6 @@
 
 Platform: [PicoCTF](https://play.picoctf.org/)
 
-Challenge: [Obedient Cat](https://play.picoctf.org/practice/challenge/147?category=5&difficulty=1&page=1&search=obe)
-
 ## Description
 
 This file has a flag in plain sight (aka "in-the-clear").
