@@ -1,6 +1,6 @@
 # Packets Primer 📦🚩
 
-Platform: 
+Platform: [PicoCTF](https://play.picoctf.org/)
 
 ## Description
 
