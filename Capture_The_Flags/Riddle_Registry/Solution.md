@@ -2,8 +2,6 @@
 
 Platform: [PicoCTF](https://play.picoctf.org/)
 
-Challenge: [Riddle Registry](https://play.picoctf.org/practice/challenge/530?category=4&difficulty=1&page=1&search=Riddle)
-
 ## Description
 
 Hi, intrepid investigator! 📄🔍 You've stumbled upon a peculiar PDF filled with what seems like nothing more than garbled nonsense. But beware! Not everything is as it appears. Amidst the chaos lies a hidden treasure—an elusive flag waiting to be uncovered.
