@@ -421,7 +421,3 @@ The TAP will be dropped next to the WP1 (Web Proxy) and the last Packet ast Page
 The TAP will be dropped next to the SR-DNS and the packet with source IP `10.10.10.11` with info of TXT records has the flag.
 
 <img width="1749" height="853" alt="image" src="https://github.com/user-attachments/assets/3871745f-3f44-4779-88ac-dfc6ea857778" />
-
-## Credits 🙌
-
-Thanks to [CyberConnect](https://github.com/Cyber-Connect-pk) for mentoring us to improve our cybersecurity skills!
