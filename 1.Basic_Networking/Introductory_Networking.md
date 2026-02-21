@@ -4,6 +4,8 @@ Platform: [TryHackMe](https://tryhackme.com/dashboard)
 
 Room: [Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
+<img width="953" height="245" alt="image" src="https://github.com/user-attachments/assets/c27d1ae6-326b-4abc-9d5d-f0cf089dd8e4" />
+
 ## The OSI Model: An Overview
 
 The OSI (Open Systems Interconnection) Model is a standardised model which we use to demonstrate the theory behind computer networking. In practice, it's actually the more compact TCP/IP model that real-world networking is based off; however the OSI model, in many ways, is easier to get an initial understanding from.
