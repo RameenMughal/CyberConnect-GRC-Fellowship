@@ -2,6 +2,8 @@
 
 Platform: [TryHackMe](https://tryhackme.com/)
 
+Room: [Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics)
+
 <img width="950" height="251" alt="image" src="https://github.com/user-attachments/assets/b7dd3915-8530-402e-ba54-efae175be6f4" />
 
 ## Introduction
