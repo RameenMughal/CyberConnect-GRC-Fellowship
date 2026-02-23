@@ -1,8 +1,8 @@
 # 🔓🚪 Crack The Gate 1
 
-Platform: [PicoCTF]
+Platform: [PicoCTF](https://play.picoctf.org/)
 
-Room: [Crack The Gate 1](https://play.picoctf.org/practice/challenge/520?page=1&search=crack)
+Challenge: [Crack The Gate 1](https://play.picoctf.org/practice/challenge/520?page=1&search=crack)
 
 ## Description
 
