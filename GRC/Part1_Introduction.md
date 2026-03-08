@@ -33,6 +33,26 @@ DPP: Data Protection Professional
 - Risk Managemen costs increasing at an unprecendented rate.
 - Reduced total cost of ownership.
 
+## How Governance, Risk Management, and Compliance Work Together
+
+| Component | Role | Relationship |
+|-----------|------|--------------|
+| **Governance** | Sets policies and direction | Guides how risk and compliance should be handled |
+| **Risk Management** | Identifies and reduces threats | Helps governance make informed decisions |
+| **Compliance** | Ensures adherence to laws and standards | Confirms governance policies meet legal requirements |
+
+### Relationship Flow
+
+Governance → Sets policies and direction
+
+↓
+
+Risk Management → Identifies and mitigates risks
+
+↓
+
+Compliance → Ensures policies follow laws and regulations
+
 
 
 
