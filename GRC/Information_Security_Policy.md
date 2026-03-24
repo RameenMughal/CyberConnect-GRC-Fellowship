@@ -68,6 +68,29 @@ There are two types of policy format, so you need to decide which format to use.
 - **Health Insurance Portability and Accoutability Act**: Covered entities are required to publish comprehensive information security policies that communicate in detail how information is protected.
 - **PCI DSS** (Payment Card Industry Data Security Standard): A strong security policy sets the tone for security affecting an organization's entire company, and it informs employees of their expected duties related to security
 
+<img width="850" height="466" alt="image" src="https://github.com/user-attachments/assets/437209cd-44a3-4d46-a1d8-af4e9e4c4eb1" />
+
+## Policy Content Keywords
+
+<img width="820" height="327" alt="image" src="https://github.com/user-attachments/assets/7c333b60-02e2-4a5e-a69d-a60785fdc86c" />
+
+## Scenario Example
+
+<img width="809" height="273" alt="image" src="https://github.com/user-attachments/assets/8de8511a-3fce-443e-a56a-38a421c7dfd7" />
+
+<img width="811" height="230" alt="image" src="https://github.com/user-attachments/assets/c53ce9d8-bdb3-4c66-9d4f-287b2f0a2c57" />
+
+## Policy Content
+
+<img width="836" height="449" alt="image" src="https://github.com/user-attachments/assets/ec40a477-ec1f-432d-966a-be768ac8fcd6" />
+
+- Purpose: Specify the intention of the entire Security Policy
+- Scope: Define the scope where policies in the whole document apply.
+- Responsibilities: Identify all the roles involved and their responsibilities in the enforcement
+
+
+
+
 
 
     
