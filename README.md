@@ -8,4 +8,6 @@ Here you’ll find notes, scripts, and exercises related to **Governance, Risk, 
 
 You can check the [CyberConnect Roadmap](https://github.com/Cyber-Connect-pk/CyberSecurity-Roadmaps) to see the roadmap of your choice and follow your learning path.
 
+You can check Networking and Security Lectures from [Fellowship Lectures](https://github.com/areesha-13/Fellowship-Lectures)
+
 ---
